@@ -1,5 +1,8 @@
+nav a {
+    color: #0b59ce;
+}
+
 .logo {
     text-decoration: none;
     font-family: 'Aguafina Script', cursive;
-    color: #0b59ce;
 }
