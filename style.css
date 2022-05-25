@@ -25,7 +25,11 @@ nav .material-icons-outlined {
 
 main {
     display: flex;
-    margin: 6px;
+}
+
+.row {
+    display: flex;
+    margin: 12px;
 }
 
 /* Card object */
