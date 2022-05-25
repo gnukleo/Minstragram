@@ -22,3 +22,33 @@ nav .material-icons-outlined {
     text-decoration: none;
     font-family: 'Aguafina Script', cursive;
 }
+
+/* Card object */
+.card {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #efefef;
+    width: 250px;
+}
+
+.card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card-title {
+    margin: 0;
+    flex-grow: 2;
+    font-size: small;
+}
+
+.card-menu {
+    color: #c8c8c8;
+}
+
+.card-avatar {
+    margin: 3px;
+    width: 30px;
+    height: 30px;
+}
