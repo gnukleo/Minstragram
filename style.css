@@ -30,6 +30,8 @@ main {
 .row {
     display: flex;
     margin: 12px;
+    width: 100%;
+    justify-content: center;
 }
 
 /* Card object */
@@ -38,6 +40,7 @@ main {
     flex-direction: column;
     border: 1px solid #efefef;
     width: 250px;
+    margin: 0px 6px;
 }
 
 .card-header {
